@@ -1,7 +1,7 @@
 # sputnik-testnet
 Terraform script that configures the required server type for a validator node in Hetzner Cloud
 
-## whan will you need
+## what will you need
 
 [HETZNER CLOUD API TOKEN](https://docs.hetzner.com/cloud/api/getting-started/generating-api-token/)
 
