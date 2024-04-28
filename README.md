@@ -20,7 +20,7 @@ Terraform script that configures the required server type for a validator node i
 ```bash
 $ brew install terraform
 $ git clone git@github.com:beavers-network/sputnik-testnet.git
-$ cd sputnik-testnet
+$ cd sputnik-testnet/infra/hetzner
 # сreate your own data file as in the step above
 $ terraform init
 $ terraform plan
